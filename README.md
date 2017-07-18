@@ -1,12 +1,14 @@
 # CMS Jupyter Materials German
-TO BE TRANSLATED <br>
-This repository contains material for classroom activities using open data from CMS CERN. <br>
-Materials provide basic introduction to Python and Jupyter Notebooks and ready exercises for the classrooms.
 
-## Contents
-- Introduction to Jupyter <br>
-  - This folder contains installation instructions, the very basics of Python programming and useful commands for creating and   formatting Notebooks in Jupyter
-- Exercises with Open data
-  - This folder contains several exercises to be carried out using Jupyter
-- Data
-  - Here you can find all the data used in the Notebooks and also a few extra files in csv-format
+Diese Ablage enthält Materialien für die Arbeit mit Open Data des CMS Experiments am CERN in der Schule.
+Die Materialien beinhalten grundlegende Anleitungen zu Python und Jupyter Notebooks (TO BE TRANSLATED) und fertige Übungen zum Einsatz in der Klasse.
+
+## Inhalt
+- Einführung in Jupyter <br>
+  - Dieser Ordner enthält die Installationsanleitung, Grundlagen von Python und nützliche Kommandos für Jupyter Notebooks
+
+- Exercises (Übungen mit Open Data)
+  - Dieser Ordner enthält die Übungen, die mit Jupyter ausgeführt werden.
+
+- Data (Daten)
+  - Dieser Ordner enthält alle Daten, die die Jupyter Notebooks nutzen und ein paar zusätzliche Daten im CSV-Format
