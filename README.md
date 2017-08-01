@@ -7,8 +7,8 @@ Die Materialien beinhalten grundlegende Anleitungen zu Python und Jupyter Notebo
 - Einführung in Jupyter <br>
   - Dieser Ordner enthält die Installationsanleitung, Grundlagen von Python und nützliche Kommandos für Jupyter Notebooks
 
-- Exercises (Übungen mit Open Data)
+- Übungen mit Open Data
   - Dieser Ordner enthält die Übungen, die mit Jupyter ausgeführt werden.
 
-- Data (Daten)
+- Daten
   - Dieser Ordner enthält alle Daten, die die Jupyter Notebooks nutzen und ein paar zusätzliche Daten im CSV-Format
