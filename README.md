@@ -4,7 +4,7 @@ Diese Ablage enthält Materialien für die Arbeit mit Open Data des CMS Experime
 Die Materialien beinhalten grundlegende Anleitungen zu Python und Jupyter Notebooks (TO BE TRANSLATED) und fertige Übungen zum Einsatz in der Klasse.
 
 ## Inhalt
-- Einführung in Jupyter <br>
+- Einführung in Jupyter (kommend) <br>
   - Dieser Ordner enthält die Installationsanleitung, Grundlagen von Python und nützliche Kommandos für Jupyter Notebooks
 
 - Übungen mit Open Data
