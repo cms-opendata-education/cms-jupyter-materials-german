@@ -1,5 +1,5 @@
 ==============
- Beitragen
+ Contributing
 ==============
 
 Development ideas, feature requests and further exercises are warmly encouraged
