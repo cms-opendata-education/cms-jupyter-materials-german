@@ -12,3 +12,12 @@ Die Materialien beinhalten grundlegende Anleitungen zu Python und Jupyter Notebo
 
 - Daten
   - Dieser Ordner enthält alle Daten, die die Jupyter Notebooks nutzen und ein paar zusätzliche Daten im CSV-Format
+
+## Using the materials
+You can download the contents of this repository as a ZIP which you can extract to your own device. <br>
+The easiest way is to download the whole repository by clicking *Clone or download* button at the front page. <br>
+![Clone or Download](https://github.com/cms-opendata-education/cms-jupyter-materials-english/blob/master/Images/download.png)
+
+## Contributing
+Development ideas, feature requests, bug reports and further exercises are warmly encouraged and welcome! <br>
+To contribute, see our [Contributing guide](Contributing.rst).
