@@ -18,6 +18,6 @@ Sie können den Inhalt dieses Repository als ZIP herunterladen, den Sie auf Ihr 
 Der einfachste Weise ist, das gesamte Repository herunterzuladen, indem du auf der Titelseite auf Clone or Download -Taste klickst. <br>
 ![Clone or Download](https://github.com/cms-opendata-education/cms-jupyter-materials-english/blob/master/Images/download.png)
 
-## Beitrag (nur auf Englisch)
+## Beitrag
 Entwicklungsideen, Feature-Anfragen, Fehlerberichte und weitere Übungen sind herzlich willkommen! <br>
-Für den Beitrag, sehen Sie unseren [Contributing guide](Contributing.rst).
+Für den Beitrag, sehen Sie unseren [Contributing guide](Contributing.rst) (auf Englisch).
