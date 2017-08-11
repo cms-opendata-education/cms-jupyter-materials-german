@@ -1,7 +1,8 @@
 # CMS Jupyter Materials German
 
 Diese Ablage enthält Materialien für die Arbeit mit Open Data des CMS Experiments am CERN in der Schule.
-Die Materialien beinhalten grundlegende Anleitungen zu Python und Jupyter Notebooks (TO BE TRANSLATED) und fertige Übungen zum Einsatz in der Klasse.
+Die Materialien beinhalten grundlegende Anleitungen zu Python und Jupyter Notebooks (TO BE TRANSLATED) und fertige Übungen zum Einsatz in der Klasse. <br>
+Materialien werden im Moment mit Hilfe von Freiwilligen von [Englisch Ablage](https://github.com/cms-opendata-education/cms-jupyter-materials-english) übersetzt.
 
 ## Inhalt
 - Einführung in Jupyter (kommend) <br>
