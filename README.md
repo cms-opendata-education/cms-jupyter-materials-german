@@ -17,8 +17,8 @@ Materialien werden im Moment mit Hilfe von Freiwilligen von [Englisch Ablage](ht
 ## Verwendung der Materialien
 Sie können den Inhalt diese Ablage als ZIP herunterladen, den Sie auf Ihr eigenes Gerät extrahieren können. <br>
 Der einfachste Weise ist, die gesamte Ablage herunterzuladen, indem du auf der Titelseite auf Clone or Download -Taste klickst. <br>
-![Clone or Download](https://github.com/cms-opendata-education/cms-jupyter-materials-english/blob/master/Images/download.png)
+![Clone or Download](https://github.com/cms-opendata-education/cms-opendata-education/blob/master/download.png)
 
 ## Beitrag
 Entwicklungsideen, Feature-Anfragen, Fehlerberichte und weitere Übungen sind herzlich willkommen! <br>
-Für den Beitrag, sehen Sie unseren [Contributing guide](Contributing.rst) (auf Englisch).
+Für den Beitrag, sehen Sie unseren [Contributing guide](https://github.com/cms-opendata-education/cms-opendata-education/blob/master/Contributing.rst) (auf Englisch).
